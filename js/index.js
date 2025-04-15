@@ -1,4 +1,5 @@
-console.log("hello world")
+const phrase = process.argv[2] 
+console.log(phrase);
 
 //ho inizializzato l'app con node
 //nel file index.js ho creato il console log di hello world
